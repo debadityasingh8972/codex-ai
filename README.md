@@ -30,7 +30,7 @@ cd server && npm i
 ### to run client and server concurrently
 ```bash
 cd client
-npm run dev
+npm start
 ```
 ### to run client only
 ```bash
