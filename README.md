@@ -1,5 +1,5 @@
-# codex-ai
-# Codex is a coding buddy created using OpenAIs davinchi-003 model. 
+# Codex-ai
+## Codex is a coding buddy created using OpenAIs davinchi-003 model. 
 
 ## install
 
